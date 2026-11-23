@@ -1,0 +1,56 @@
+{
+  "hub": {
+    "version": "0.1.0",
+    "url": "https://flightsim.to/profile/cyppy007",
+    "notes": ""
+  },
+  "addon": {
+    "version": "0.9.41",
+    "url": "https://flightsim.to/profile/cyppy007",
+    "notes": ""
+  },
+  "ifes": {
+    "ACA": {
+      "version": "1.0.13",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/ACA.zip",
+      "sha256": "3ba7daf4856790a5c11a52b8dbe0a6c56a066a73218025c3eb5da1480be25ed3",
+      "notes": "First release"
+    },
+    "AFR": {
+      "version": "1.0.21",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/AFR.zip",
+      "sha256": "003f5f0c4ac3047797d6d9dece3fa6a302579314a73e88f6b6caf4fa818bb71a",
+      "notes": "First release"
+    },
+    "BAW": {
+      "version": "1.0.20",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/BAW.zip",
+      "sha256": "7da71abb931b62512b4d7d2f9f72acc6a65f090cf8b7cc574910063fcdc1f6fe",
+      "notes": "First release"
+    },
+    "ETH": {
+      "version": "1.1.10",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/ETH.zip",
+      "sha256": "07881978fc63ef93265a4559b3792abc33c67980fe587ba43347255cc7be8bd6",
+      "notes": "First release"
+    },
+    "KLM": {
+      "version": "1.0.15",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/KLM.zip",
+      "sha256": "8f57b0be93dedae1a3759fcb762840d550100b44045b92d90783cae68b0a5d42",
+      "notes": "First release"
+    },
+    "QTR": {
+      "version": "1.0.15",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/QTR.zip",
+      "sha256": "16867e91d883ed7c38762792577028c084bbdc04c5a1f112a16a2b0efa6ef34d",
+      "notes": "First release"
+    },
+    "UAE": {
+      "version": "1.0.14",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/UAE.zip",
+      "sha256": "5bd27537234a07fe30a3c9b50284a99ccbb78e657edd60b3c782e497e749e7a5",
+      "notes": "First release"
+    }
+  }
+}
