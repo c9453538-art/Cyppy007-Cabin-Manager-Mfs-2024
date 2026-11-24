@@ -1,8 +1,8 @@
 {
   "hub": {
-    "version": "0.1.1",
+    "version": "0.1.3",
     "url": "https://flightsim.to/profile/cyppy007",
-    "notes": "New Coming Next page and Settings moved under About."
+    "notes": "New airline: United Airlines. Install it from the IFE Store."
   },
   "addon": {
     "version": "0.9.41",
@@ -23,10 +23,10 @@
       "notes": "First release"
     },
     "BAW": {
-      "version": "1.0.20",
+      "version": "1.0.21",
       "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/BAW.zip",
-      "sha256": "7da71abb931b62512b4d7d2f9f72acc6a65f090cf8b7cc574910063fcdc1f6fe",
-      "notes": "First release"
+      "sha256": "638bb5fb1e30fca5b44f565c373ee780686440d6f42582e0a52327399c4a8aac",
+      "notes": "Now named British Airways (Thales, older). Only one British Airways version can be installed at a time."
     },
     "ETH": {
       "version": "1.1.10",
@@ -51,6 +51,18 @@
       "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/UAE.zip",
       "sha256": "5bd27537234a07fe30a3c9b50284a99ccbb78e657edd60b3c782e497e749e7a5",
       "notes": "First release"
+    },
+    "BAP": {
+      "version": "1.0.0",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/BAP.zip",
+      "sha256": "e3d68f9ce864e3c4e213945f1e5b4f3d36b59a2e2d40879a84c1948f25b41172",
+      "notes": "First release: the newer Panasonic British Airways look for the 777-300ER."
+    },
+    "UAL": {
+      "version": "1.0.0",
+      "url": "https://github.com/c9453538-art/Cyppy007-Cabin-Manager-Mfs-2024/releases/download/packs/UAL.zip",
+      "sha256": "80276dbe47eca8592cdbd9fb82e87a998b535dd562d4c99e73a107e487c4df8d",
+      "notes": "First release: United Airlines."
     }
   }
 }
